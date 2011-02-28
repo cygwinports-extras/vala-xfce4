@@ -3,4 +3,3 @@ inherit xfce4
 
 DESCRIPTION="Vala bindings for the Xfce libraries"
 HOMEPAGE="http://wiki.xfce.org/vala-bindings"
-SRC_URI="http://archive.xfce.org/src/bindings/${ORIG_PN}/${PV_MAJ_MIN}/${ORIG_PN}-${PV}.tar.bz2"
