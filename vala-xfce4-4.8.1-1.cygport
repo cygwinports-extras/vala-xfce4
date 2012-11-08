@@ -1,5 +1,0 @@
-ORIG_PN="xfce4-vala"
-inherit xfce4
-
-DESCRIPTION="Vala bindings for the Xfce libraries"
-HOMEPAGE="http://wiki.xfce.org/vala-bindings"

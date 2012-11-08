@@ -1,0 +1,12 @@
+ORIG_PN="xfce4-vala"
+inherit xfce4
+
+NAME="vala-xfce4"
+VERSION=4.10.2
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Vala bindings for the Xfce libraries"
+DESCRIPTION="xfce4-vala offers Vala bindings to the Xfce libraries"
+HOMEPAGE="http://wiki.xfce.org/vala-bindings"
+
+MAKEOPTS+=" vapidir=/usr/share/vala/vapi pkgconfigdir=/usr/share/pkgconfig"

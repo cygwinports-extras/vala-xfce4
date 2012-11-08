@@ -1,4 +1,0 @@
-category: Xfce
-requires: vala
-sdesc: "Vala bindings for Xfce4 libraries"
-ldesc: "xfce4-vala offers Vala bindings to the Xfce libraries"
